@@ -6,7 +6,7 @@ For Quantumult-X 598+
 
 [task_local]
 
-event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/nf_ytb_ui-check.js, tag=YouTube/Netflix 解锁查询, img-url=checkmark.seal.system, enabled=true
+event-interaction https://raw.githubusercontent.com/Leonardo-Jodeve/QuantumultX/master/Scripts/nf_ytb_ui-check.js, tag=YouTube/Netflix 解锁查询, img-url=checkmark.seal.system, enabled=true
 
 
 
@@ -19,7 +19,7 @@ const BASE_URL = 'https://www.netflix.com/title/'
 const BASE_URL_YTB = "https://www.youtube.com/premium"
 
 const FILM_ID = 81215567
-const link = { "media-url": "https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/southpark/7.png" } 
+const link = { "media-url": "https://raw.githubusercontent.com/Leonardo-Jodeve/QuantumultX/master/img/southpark/7.png" } 
 const policy_name = "Netflix" //填入你的 netflix 策略组名
 
 const arrow = "➟"

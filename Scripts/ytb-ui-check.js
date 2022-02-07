@@ -6,7 +6,7 @@ For Quantumult-X 598+
 
 [task_local]
 
-event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/ytb-ui-check.js, tag=YouTube 查询, img-url=text.magnifyingglass.system, enabled=true
+event-interaction https://raw.githubusercontent.com/Leonardo-Jodeve/QuantumultX/master/Scripts/ytb-ui-check.js, tag=YouTube 查询, img-url=text.magnifyingglass.system, enabled=true
 
 @XIAO_KOP
 
@@ -16,7 +16,7 @@ event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/
 const BASE_URL = 'https://www.youtube.com/premium'
 
 const FILM_ID = 81215567
-const link = { "media-url": "https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/img/southpark/7.png" } 
+const link = { "media-url": "https://raw.githubusercontent.com/Leonardo-Jodeve/QuantumultX/master/img/southpark/7.png" } 
 
 const arrow = "➟"
 var output = ""

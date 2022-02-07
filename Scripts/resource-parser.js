@@ -57,7 +57,7 @@
 ⦿ info=1, 开启通知提示机场 ✈️ 流量信息(如有提供);
 ⦿ del=1, 有重名节点时用此参数删除重复节点(默认改名保留)
 ⦿ ⟦进阶参数⟧: 𝘀𝗳𝗶𝗹𝘁𝗲𝗿/𝘀𝗿𝗲𝗻𝗮𝗺𝗲, 传入一段 base64 编码的脚本, 可用于更为复杂的[过滤/重命名] 需求
-  ❖ 说明: https://github.com/KOP-XIAO/QuantumultX/pull/9
+  ❖ 说明: https://github.com/KLeonardo-Jodeve/QuantumultX/pull/9
 
 2⃣️ ⟦𝐫𝐞𝐰𝐫𝐢𝐭𝐞 重写⟧/⟦𝐟𝐢𝐥𝐭𝐞𝐫 分流⟧ ➠ 参数说明:
 ⦿ in, out, 根据关键词 保留/禁用 相关分流、重写规则;
@@ -93,7 +93,7 @@
 /**
 * 使用说明，
 0️⃣ 在QuantumultX 配置文件中[general] 部分，加入 
-resource_parser_url = https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
+resource_parser_url = https://raw.githubusercontent.com/Leonardo-Jodeve/QuantumultX/master/Scripts/resource-parser.js
 ⚠️⚠️如提示"没有自定义解析器"，请长按右下角图标后点击左侧刷新按钮，更新资源，后台退出 app，直到出现解析器说明
 
 ------------------------------

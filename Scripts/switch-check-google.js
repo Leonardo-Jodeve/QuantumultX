@@ -4,7 +4,7 @@ For Quantumult-X 598+ ONLY!!
 
 [task_local]
 
-event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/switch-check-google.js, tag=Google Sifter, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png, enabled=true
+event-interaction https://raw.githubusercontent.com/Leonardo-Jodeve/QuantumultX/master/Scripts/switch-check-google.js, tag=Google Sifter, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png, enabled=true
 
 ps. 简单粗暴的 UI-Interaction 版本。无数据持久化、粗暴延迟等待。完美主义建议使用 Helge大佬的boxjs版本 https://t.me/QuanXNews/193
 

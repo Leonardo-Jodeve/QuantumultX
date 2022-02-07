@@ -10,7 +10,7 @@ For Quantumult-X 598+ ONLY!!
 
 [task_local]
 
-event-interaction https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/disney-ui-check.js, tag=Disney⁺ 查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney.png, enabled=true"
+event-interaction https://raw.githubusercontent.com/Leonardo-Jodeve/QuantumultX/master/Scripts/disney-ui-check.js, tag=Disney⁺ 查询, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney.png, enabled=true"
 
 @XIAO_KOP
 
