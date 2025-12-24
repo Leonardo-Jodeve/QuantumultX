@@ -29,8 +29,8 @@ const emojis = [
   "🐌",
   "👥",
 ];
-var city0 = "高谭市";
-var isp0 = "Cross-GFW.org";
+var city0 = "索拉里斯星球";
+var isp0 = "宇宙联邦网络";
 function getRandomInt(max) {
   return Math.floor(Math.random() * Math.floor(max));
 }
@@ -54,11 +54,7 @@ function ISP_ValidCheck(para) {
 }
 
 function Area_check(para) {
-  if (para == "中华民国") {
-    return "台湾";
-  } else {
-    return para;
-  }
+  return para;
 }
 
 var flags = new Map([
@@ -166,7 +162,7 @@ var flags = new Map([
   ["TO", "🇹🇴"],
   ["TR", "🇹🇷"],
   ["TV", "🇹🇻"],
-  ["TW", "🇨🇳"],
+  ["TW", "🇹🇼"],
   ["UK", "🇬🇧"],
   ["UM", "🇺🇲"],
   ["US", "🇺🇸"],

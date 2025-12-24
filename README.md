@@ -1,3 +1,19 @@
+# Quantumult X
+## 本配置由 @Leonardo-Jodeve 在 @KOP-XIAO 配置文件基础上修改而成
+
+首先感谢原作者 @KOP-XIAO 的辛勤付出
+    
+但是，在一个本用于突破限制的工具中，人为加入针对某些区域的限制，在我看来是不可原谅的，即使是以“增加兼容性”的名义。
+    
+这也是我 Fork 并改写了这个项目的原因
+
+> 主要修改：解除原作者刻意添加在旗帜上的限制以及对应名称上的改写，使其恢复正常显示
+
+<br />
+
+## 以下为原作者 @KOP-XIAO 的留言
+
+
 # QuantumultX
 > 纯自用，无规则，无维护，无更新
 
@@ -15,10 +31,5 @@ https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js
 更新请关注 tg 频道 https://t.me/QuanX_API
 
 
-
-觉得有帮助可以请喝咖啡:
-
-
-
-<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geiniiv2onj30u00u0wgi.jpg" alt="IMG_5957" style="zoom:23%;" />
+> 此处有原作者的赞助方式，请到原作者仓库查看
 
